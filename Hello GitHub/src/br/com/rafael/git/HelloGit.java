@@ -4,7 +4,7 @@
 package br.com.rafael.git;
 
 /**
- *  Exemplo de Integração do Eclipse com o GitHub
+ *  Exemplo de Integraï¿½ï¿½o do Eclipse com o GitHub
  *
  */
 public class HelloGit {
@@ -18,6 +18,7 @@ public class HelloGit {
 		System.out.println("Rafael Fiorio    -  ");
 		System.out.println("terceiro teste");
 		System.out.println("Imprimindo a Quarta Linha 4");
+		System.out.println("Imprimindo a Quinta Linaha 5");
 
 	}
 
